@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/notDEVANG/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/notDEVANG/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/notDEVANG/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/notDEVANG/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/notDEVANG/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/notDEVANG/leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/notDEVANG/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/notDEVANG/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/notDEVANG/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/notDEVANG/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/notDEVANG/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/notDEVANG/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/notDEVANG/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/notDEVANG/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/notDEVANG/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notDEVANG/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/notDEVANG/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0680-valid-palindrome-ii](https://github.com/notDEVANG/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/notDEVANG/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/notDEVANG/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/notDEVANG/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/notDEVANG/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/notDEVANG/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/notDEVANG/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/notDEVANG/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
