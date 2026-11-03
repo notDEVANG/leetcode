@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/notDEVANG/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/notDEVANG/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/notDEVANG/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/notDEVANG/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/notDEVANG/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/notDEVANG/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/notDEVANG/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/notDEVANG/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/notDEVANG/leetcode/tree/master/0078-subsets) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/notDEVANG/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/notDEVANG/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
